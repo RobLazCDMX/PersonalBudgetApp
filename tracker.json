@@ -1,0 +1,1 @@
+{"income":[{"id":0,"type":"inc","description":"Starting Amount","value":100},{"id":1,"description":"Side Business","value":100,"type":"inc"},{"id":2,"description":"Side Business","value":100,"type":"inc"},{"id":3,"description":"Side Business","value":100,"type":"inc"}],"expense":[{"id":4,"description":"Rent","value":1300,"type":"exp"}]}
